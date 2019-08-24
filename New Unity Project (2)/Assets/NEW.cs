@@ -4,4 +4,6 @@ using UnityEngine;
 
 public class NEW : MonoBehaviour
 {
+    int a;
+    
 }
