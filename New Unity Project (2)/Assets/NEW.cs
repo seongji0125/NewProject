@@ -8,6 +8,10 @@ public class NEW : MonoBehaviour
     private void Start()
     {
         a = 1;
+<<<<<<< Updated upstream
+=======
+        b = 2;
+>>>>>>> Stashed changes
 
     }
 }
