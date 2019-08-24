@@ -5,8 +5,10 @@ using UnityEngine;
 public class NEW : MonoBehaviour
 {
     int a;
+    int b;
     private void Start()
     {
-        
+        b = 2;
+
     }
 }
