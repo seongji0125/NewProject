@@ -7,6 +7,7 @@ public class NEW : MonoBehaviour
     int a;
     private void Start()
     {
-        
+        a = 1;
+
     }
 }
