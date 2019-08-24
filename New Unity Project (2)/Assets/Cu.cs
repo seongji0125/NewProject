@@ -9,6 +9,7 @@ public class Cu : MonoBehaviour
     void Start()
     {
         CuT = 10;
+        CuT--;
     }
 
     // Update is called once per frame
