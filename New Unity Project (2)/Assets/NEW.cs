@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class NEW : MonoBehaviour
 {
+
+    int ggg;
     // Start is called before the first frame update
     void Start()
     {
